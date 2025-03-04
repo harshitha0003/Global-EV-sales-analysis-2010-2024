@@ -14,7 +14,7 @@ This Django web application allows users to load, preprocess, and analyze global
   
 ## Requirements
 
-- Python 3.x
+- Python 3.7.0
 - Django
 - Pandas
 - Numpy
